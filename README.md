@@ -1,6 +1,8 @@
 # Sample usage of AWS SSM Parameter Store and Secret Manager
 
 
+More details can be found [here](https://j-kapuscik2.medium.com/how-to-store-secretes-on-aws-3e2f5881cd5b)
+
 Create Simple System Manager Parameter Store secrets:
 ```
 aws ssm put-parameter --cli-input-json \
